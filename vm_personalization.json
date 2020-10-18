@@ -1,0 +1,8 @@
+{
+    "vm_name": "CorkDev",
+
+    "install_vscode_ide": "false",
+
+    "dev_username": "steve",
+    "dev_password": "password"
+}
